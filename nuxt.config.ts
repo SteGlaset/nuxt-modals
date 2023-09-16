@@ -3,12 +3,12 @@ export default defineNuxtConfig({
     modules: ['@nuxtjs/google-fonts'],
     googleFonts: {
         families: {
-            Roboto: true,
+            Lato: [400, 700],
         }
     },
     css: [
-        '@/styles/normalize.css',
-        '@/styles/main.scss'
+        '@/styles/main.scss',
+        '@/styles/normalize.css'
     ],
     vite: {
         css: {

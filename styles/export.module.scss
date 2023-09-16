@@ -1,0 +1,13 @@
+@use 'variables';
+
+:export {
+  backgroundColor1: $background-color-1;
+  backgroundColor2: $background-color-2;
+  textColor1: $text-color-1;
+  textColor2: $text-color-2;
+  textColor3: $text-color-3;
+  colorError: $color-error;
+  colorSuccess: $color-success;
+  colorInfo: $color-info;
+  colorDisabled: $color-disabled;
+}
