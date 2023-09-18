@@ -1,5 +1,6 @@
 # Nuxt Reused Modals
 Stack: Typescript, Vue 3, Nuxt 3, Scss, Vite
+Deploy: [https://nuxt-modals-8r05aqlkg-steglaset.vercel.app](https://nuxt-modals-8r05aqlkg-steglaset.vercel.app)
 ## Setup
 
 Make sure to install the dependencies:
